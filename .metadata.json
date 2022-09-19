@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "misaem",
+    "oncran": true
+  }
+]
