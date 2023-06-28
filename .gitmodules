@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "denoiseR"]
 	path = denoiseR
 	url = https://github.com/cran/denoiseR
-	shallow = true
-	registered = true
 [submodule "misaem"]
 	path = misaem
 	url = https://github.com/julierennes/misaem
-	shallow = true
-	registered = true
